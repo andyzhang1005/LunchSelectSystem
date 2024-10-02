@@ -10,43 +10,43 @@ namespace LunchSelectSystem.Enum
         /// <summary>
         /// 中正區
         /// </summary>
-        [Description("中正區")]
+        [Description("Zhongzheng")]
         Zhongzheng,
 
         /// <summary>
         /// 中山區
         /// </summary>
-        [Description("中山區")]
+        [Description("Zhongshan")]
         Zhongshan,
 
         /// <summary>
         /// 松山區
         /// </summary>
-        [Description("松山區")]
+        [Description("Songshan")]
         Songshan,
 
         /// <summary>
         /// 大安區
         /// </summary>
-        [Description("大安區")]
+        [Description("Daan")]
         Daan,
 
         /// <summary>
         /// 信義區
         /// </summary>
-        [Description("信義區")]
+        [Description("Xinyi")]
         Xinyi,
 
         /// <summary>
         /// 士林區
         /// </summary>
-        [Description("士林區")]
+        [Description("Shilin")]
         Shilin,
 
         /// <summary>
         /// 北投區
         /// </summary>
-        [Description("北投區")]
+        [Description("Beitou")]
         Beitou
     }
 }

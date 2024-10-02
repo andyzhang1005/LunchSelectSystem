@@ -7,7 +7,10 @@ namespace LunchSelectSystem.Interface.IStrategy
     /// </summary>
     public interface IWeatherStrategy
     {
-        // 取得建議的地點
+        /// <summary>
+        /// 取得建議的地點
+        /// </summary>
+        /// <returns></returns>
         List<string> GetRecommendedLocations();
     }
 }

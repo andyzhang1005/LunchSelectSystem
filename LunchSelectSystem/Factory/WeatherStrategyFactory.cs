@@ -6,6 +6,9 @@ using static LunchSelectSystem.Strategy.WeatherStrategy;
 
 namespace LunchSelectSystem.Factory
 {
+    /// <summary>
+    /// 天氣策略工廠模式
+    /// </summary>
     public class WeatherStrategyFactory
     {
         // 取得天氣對應策略

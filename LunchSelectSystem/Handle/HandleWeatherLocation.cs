@@ -15,7 +15,7 @@ namespace LunchSelectSystem.Handle
         /// <summary>
         /// 建構函式
         /// </summary>
-        /// <param name="weatherStrategy"></param>
+        /// <param name="weatherStrategy">天氣對應地點策略</param>
         public HandleWeatherLocation(IWeatherStrategy weatherStrategy)
         {
             _weatherStrategy = weatherStrategy;
