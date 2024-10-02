@@ -1,0 +1,34 @@
+﻿using LunchSelectSystem.Interface.IStrategy;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace LunchSelectSystem.Handle
+{
+    /// <summary>
+    /// 處理天氣對應地點
+    /// </summary>
+    public class HandleWeatherLocation
+    {
+        private readonly IWeatherStrategy _weatherStrategy;
+
+        /// <summary>
+        /// 建構函式
+        /// </summary>
+        /// <param name="weatherStrategy"></param>
+        public HandleWeatherLocation(IWeatherStrategy weatherStrategy)
+        {
+            _weatherStrategy = weatherStrategy;
+        }
+
+        /// <summary>
+        /// 建議地點
+        /// </summary>
+        public List<string> RecommendLocations()
+        {
+            List<string> locations = _weatherStrategy.GetRecommendedLocations();
+
+            return locations;
+        }
+    }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunchSelectSystem", "LunchSelectSystem\LunchSelectSystem.csproj", "{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8BA939-925E-423C-B4CC-F45BFAC9FD0E}
+	EndGlobalSection
+EndGlobal
