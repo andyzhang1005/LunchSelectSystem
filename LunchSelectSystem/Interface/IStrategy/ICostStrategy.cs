@@ -3,14 +3,14 @@
 namespace LunchSelectSystem.Interface.IStrategy
 {
     /// <summary>
-    /// 食物類型對應價格策略
+    /// 預算對應選項策略
     /// </summary>
-    public interface IFoodTypeStrategy
+    public interface ICostStrategy
     {
         /// <summary>
-        /// 取得建議的預算
+        /// 取得建議的選項
         /// </summary>
         /// <returns></returns>
-        List<string> GetRecommendedCost();
+        List<string> GetRecommendedSelection();
     }
 }

@@ -17,7 +17,7 @@ namespace LunchSelectSystem.Strategy
         {
             public List<string> GetRecommendedLocations()
             {
-             
+
                 // 地點包含中山區、中正區、信義區
                 return new List<string> { Location.Zhongshan.GetDescription(), Location.Zhongzheng.GetDescription(), Location.Xinyi.GetDescription() };
             }

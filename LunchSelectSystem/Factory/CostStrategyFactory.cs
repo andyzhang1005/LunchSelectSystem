@@ -2,10 +2,7 @@
 using LunchSelectSystem.Extension;
 using LunchSelectSystem.Interface.IStrategy;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using static LunchSelectSystem.Strategy.HandleFoodType;
-using static LunchSelectSystem.Strategy.HandleLocation;
 
 namespace LunchSelectSystem.Factory
 {
@@ -14,7 +11,12 @@ namespace LunchSelectSystem.Factory
     /// </summary>
     public class CostStrategyFactory
     {
-        // 取得食物類型對應策略
+        /// <summary>
+        /// 取得食物類型對應策略
+        /// </summary>
+        /// <param name="selectfoodType">食物類型</param>
+        /// <returns></returns>
+        /// <exception cref="ArgumentException"></exception>
         public static IFoodTypeStrategy GetFoodTypeStrategy(string selectfoodType)
         {
             FoodType foodType = selectfoodType.ParseEnumForSameWording<FoodType>();

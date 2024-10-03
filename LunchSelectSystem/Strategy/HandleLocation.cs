@@ -1,9 +1,7 @@
 ﻿using LunchSelectSystem.Enum;
 using LunchSelectSystem.Extension;
 using LunchSelectSystem.Interface.IStrategy;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace LunchSelectSystem.Strategy
 {

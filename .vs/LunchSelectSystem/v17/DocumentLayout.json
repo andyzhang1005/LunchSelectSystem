@@ -7,52 +7,76 @@
       "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\enum\\cost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\enum\\cost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\enum\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\enum\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\enum\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\enum\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\enum\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\enum\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\extension\\enumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\extension\\enumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\factory\\coststrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\factory\\coststrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\enum\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\enum\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\strategy\\handlefoodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\strategy\\handlefoodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\factory\\locationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\factory\\locationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\strategy\\handleweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\strategy\\handleweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\enum\\cost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\enum\\cost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\factory\\weatherstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\factory\\weatherstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\factory\\selectionstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\factory\\selectionstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\factory\\coststrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\factory\\coststrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\factory\\locationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\factory\\locationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\strategy\\handlecost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\strategy\\handlecost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\handle\\handlecostselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\handle\\handlecostselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\interface\\istrategy\\icoststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\interface\\istrategy\\icoststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\handle\\handlefoodtypecost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\handle\\handlefoodtypecost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\handle\\handlefoodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\handle\\handlefoodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\strategy\\handlefoodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\strategy\\handlefoodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\interface\\istrategy\\ifoodtypestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\interface\\istrategy\\ifoodtypestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\handle\\handlefoodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\handle\\handlefoodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\extension\\enumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\extension\\enumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\enum\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\enum\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\strategy\\handleweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|solutionrelative:lunchselectsystem\\strategy\\handleweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE00CEE3-E441-4AF3-B024-3ECE9330AFDA}|LunchSelectSystem\\LunchSelectSystem.csproj|c:\\users\\asus\\source\\repos\\lunchselectsystem\\lunchselectsystem\\handle\\handleweatherlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 71,
+          "SelectedChildIndex": 70,
           "Children": [
             {
               "$type": "Bookmark",
@@ -342,67 +366,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EnumExtension.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Extension\\EnumExtension.cs",
-              "RelativeDocumentMoniker": "LunchSelectSystem\\Extension\\EnumExtension.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Extension\\EnumExtension.cs",
-              "RelativeToolTip": "LunchSelectSystem\\Extension\\EnumExtension.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAawCsAAAAQAAAA",
+              "DocumentIndex": 1,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Weather.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Enum\\Weather.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Weather.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Enum\\Weather.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:10:04.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Location.cs",
-              "RelativeDocumentMoniker": "LunchSelectSystem\\Enum\\Location.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Location.cs",
-              "RelativeToolTip": "LunchSelectSystem\\Enum\\Location.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T02:56:54.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LocationStrategyFactory.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\LocationStrategyFactory.cs",
-              "RelativeDocumentMoniker": "LunchSelectSystem\\Factory\\LocationStrategyFactory.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\LocationStrategyFactory.cs",
-              "RelativeToolTip": "LunchSelectSystem\\Factory\\LocationStrategyFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T02:56:45.566Z",
+              "WhenOpened": "2024-10-03T06:55:37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HandleFoodType.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Strategy\\HandleFoodType.cs",
-              "RelativeDocumentMoniker": "LunchSelectSystem\\Strategy\\HandleFoodType.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Strategy\\HandleFoodType.cs",
-              "RelativeToolTip": "LunchSelectSystem\\Strategy\\HandleFoodType.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAApAAAA",
+              "Title": "SelectionStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\SelectionStrategyFactory.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Factory\\SelectionStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\SelectionStrategyFactory.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Factory\\SelectionStrategyFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T02:42:20.425Z",
+              "WhenOpened": "2024-10-03T06:48:19.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FoodType.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\FoodType.cs",
               "RelativeDocumentMoniker": "LunchSelectSystem\\Enum\\FoodType.cs",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\FoodType.cs",
               "RelativeToolTip": "LunchSelectSystem\\Enum\\FoodType.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAhAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T02:43:17.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\WeatherStrategyFactory.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Factory\\WeatherStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\WeatherStrategyFactory.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Factory\\WeatherStrategyFactory.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:56:41.219Z",
               "EditorCaption": ""
             },
             {
@@ -413,79 +424,181 @@
               "RelativeDocumentMoniker": "LunchSelectSystem\\Program.cs",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Program.cs",
               "RelativeToolTip": "LunchSelectSystem\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAkwDMAAAAeAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAjwGIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T02:39:35.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Cost.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Cost.cs",
               "RelativeDocumentMoniker": "LunchSelectSystem\\Enum\\Cost.cs",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Cost.cs",
               "RelativeToolTip": "LunchSelectSystem\\Enum\\Cost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T02:44:22.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Selection.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Selection.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Enum\\Selection.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Selection.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Enum\\Selection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:31:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CostStrategyFactory.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\CostStrategyFactory.cs",
               "RelativeDocumentMoniker": "LunchSelectSystem\\Factory\\CostStrategyFactory.cs",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\CostStrategyFactory.cs",
               "RelativeToolTip": "LunchSelectSystem\\Factory\\CostStrategyFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T03:12:42.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WeatherStrategyFactory.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\WeatherStrategyFactory.cs",
-              "RelativeDocumentMoniker": "LunchSelectSystem\\Factory\\WeatherStrategyFactory.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\WeatherStrategyFactory.cs",
-              "RelativeToolTip": "LunchSelectSystem\\Factory\\WeatherStrategyFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "LocationStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\LocationStrategyFactory.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Factory\\LocationStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Factory\\LocationStrategyFactory.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Factory\\LocationStrategyFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T02:56:41.219Z",
+              "WhenOpened": "2024-10-03T02:56:45.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HandleCost.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Strategy\\HandleCost.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Strategy\\HandleCost.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Strategy\\HandleCost.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Strategy\\HandleCost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:40:52.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "HandleCostSelection.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Handle\\HandleCostSelection.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Handle\\HandleCostSelection.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Handle\\HandleCostSelection.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Handle\\HandleCostSelection.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:46:25.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICostStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Interface\\IStrategy\\ICostStrategy.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Interface\\IStrategy\\ICostStrategy.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Interface\\IStrategy\\ICostStrategy.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Interface\\IStrategy\\ICostStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:29:08.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "HandleFoodTypeCost.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Handle\\HandleFoodTypeCost.cs",
               "RelativeDocumentMoniker": "LunchSelectSystem\\Handle\\HandleFoodTypeCost.cs",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Handle\\HandleFoodTypeCost.cs",
               "RelativeToolTip": "LunchSelectSystem\\Handle\\HandleFoodTypeCost.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T02:54:22.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
+              "Title": "HandleFoodType.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Strategy\\HandleFoodType.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Strategy\\HandleFoodType.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Strategy\\HandleFoodType.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Strategy\\HandleFoodType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:42:20.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HandleFoodType.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Handle\\HandleFoodType.cs",
               "RelativeDocumentMoniker": "LunchSelectSystem\\Handle\\HandleFoodType.cs",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Handle\\HandleFoodType.cs",
               "RelativeToolTip": "LunchSelectSystem\\Handle\\HandleFoodType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T02:53:57.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
+              "Title": "IFoodTypeStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Interface\\IStrategy\\IFoodTypeStrategy.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Interface\\IStrategy\\IFoodTypeStrategy.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Interface\\IStrategy\\IFoodTypeStrategy.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Interface\\IStrategy\\IFoodTypeStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:40:49.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Location.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Enum\\Location.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Enum\\Location.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Enum\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:56:54.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnumExtension.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Extension\\EnumExtension.cs",
+              "RelativeDocumentMoniker": "LunchSelectSystem\\Extension\\EnumExtension.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Extension\\EnumExtension.cs",
+              "RelativeToolTip": "LunchSelectSystem\\Extension\\EnumExtension.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAawCsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:10:04.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "HandleWeather.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Strategy\\HandleWeather.cs",
               "RelativeDocumentMoniker": "LunchSelectSystem\\Strategy\\HandleWeather.cs",
@@ -498,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "HandleWeatherLocation.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Handle\\HandleWeatherLocation.cs",
               "RelativeDocumentMoniker": "LunchSelectSystem\\Handle\\HandleWeatherLocation.cs",
@@ -511,20 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IFoodTypeStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Interface\\IStrategy\\IFoodTypeStrategy.cs",
-              "RelativeDocumentMoniker": "LunchSelectSystem\\Interface\\IStrategy\\IFoodTypeStrategy.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Interface\\IStrategy\\IFoodTypeStrategy.cs",
-              "RelativeToolTip": "LunchSelectSystem\\Interface\\IStrategy\\IFoodTypeStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T02:40:49.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "HandleLocation.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Strategy\\HandleLocation.cs",
               "RelativeDocumentMoniker": "LunchSelectSystem\\Strategy\\HandleLocation.cs",
@@ -537,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "ILocationStrategy.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LunchSelectSystem\\LunchSelectSystem\\Interface\\IStrategy\\ILocationStrategy.cs",
               "RelativeDocumentMoniker": "LunchSelectSystem\\Interface\\IStrategy\\ILocationStrategy.cs",
