@@ -44,14 +44,37 @@ namespace LunchSelectSystem
                
             });
 
-            #endregion
-
             // 過濾相同的資料
             allFoodTypes = FilterSameData(allFoodTypes);
 
-            allFoodTypes.ForEach(foodType =>
+            #endregion
+
+            #region 食物類型對應預算區塊
+
+            List<string> allCosts = new List<string>();
+
+            allFoodTypes.ForEach(foodTyppe =>
             {
-                Console.WriteLine(foodType);
+                // 透過工廠模式獲取對應的食物類型策略
+                IFoodTypeStrategy foodTypeStrategy = CostStrategyFactory.GetFoodTypeStrategy(foodTyppe);
+
+                // 應用策略模式決定推薦預算
+                HandleFoodTypeCost handleFoodTypeCost = new HandleFoodTypeCost(foodTypeStrategy);
+                List<string> costs = handleFoodTypeCost.RecommendedCost();
+
+                allCosts.AddRange(costs);
+
+            });
+
+            // 過濾相同的資料
+            allCosts = FilterSameData(allCosts);
+
+
+            #endregion
+
+            allCosts.ForEach(cost =>
+            {
+                Console.WriteLine(cost);
             });
            
         }

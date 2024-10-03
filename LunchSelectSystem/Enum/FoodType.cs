@@ -10,19 +10,19 @@ namespace LunchSelectSystem.Enum
     /// </summary>
     public enum FoodType
     {
-        [Description("中式餐點")]
+        [Description("ChineseMeals")]
         ChineseMeals,
 
-        [Description("日式餐點")]
+        [Description("JapaneseMeals")]
         JapaneseMeals,
 
-        [Description("義式餐點")]
+        [Description("ItalianMeals")]
         ItalianMeals,
 
-        [Description("港式餐點")]
+        [Description("HongKongMeals")]
         HongKongMeals,
 
-        [Description("法式餐點")]
+        [Description("FrenchMeals")]
         FrenchMeals,
     }
 }
